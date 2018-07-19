@@ -11,8 +11,8 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default",
 locale                   : "en-US"
 title                    : "Copperforge Discover"
 title_separator          : "-"
-name                     : "Benjamin Ward"
-description              : "FIRST Done Right."
+name                     : "Copperforge"
+description              : "Providing cost-effective electronics solutions for educational and competition robotics since 2018."
 url                      : "http://discover.copperforge.cc" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Copperforge/Discover" # Gitlab username/repo-name
