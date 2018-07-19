@@ -1,6 +1,6 @@
 ---
 title: "Bearings and Bushings"
-permalink: /motion/bearings
+permalink: /motion/bearings.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

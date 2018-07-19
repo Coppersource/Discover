@@ -1,6 +1,6 @@
 ---
 title: "Pneumatics Overview"
-permalink: /pneumatics/overview
+permalink: /pneumatics/overview.html
 sidebar:
   nav: controls_sidebar
 directory: pneumatics_nav

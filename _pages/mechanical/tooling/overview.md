@@ -1,6 +1,6 @@
 ---
 title: "Tooling Overview"
-permalink: /tooling/overview
+permalink: /tooling/overview.html
 sidebar:
   nav: mechanical_sidebar
 directory: tooling_nav

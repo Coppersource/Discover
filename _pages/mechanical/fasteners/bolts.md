@@ -1,6 +1,6 @@
 ---
 title: "Bolts"
-permalink: /fasteners/bolts
+permalink: /fasteners/bolts.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

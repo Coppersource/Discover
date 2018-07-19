@@ -1,6 +1,6 @@
 ---
 title: "Power Transfer"
-permalink: /motion/power_transfer
+permalink: /motion/power_transfer.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

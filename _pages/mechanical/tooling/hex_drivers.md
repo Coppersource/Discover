@@ -1,6 +1,6 @@
 ---
 title: "Drill Bits"
-permalink: /tooling/hex_drivers
+permalink: /tooling/hex_drivers.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

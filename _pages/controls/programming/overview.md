@@ -1,6 +1,6 @@
 ---
 title: "Programming Overview"
-permalink: /programming/overview
+permalink: /programming/overview.html
 sidebar:
   nav: controls_sidebar
 directory: programming_nav

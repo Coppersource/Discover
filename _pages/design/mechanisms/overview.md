@@ -1,6 +1,6 @@
 ---
 title: "Mechanisms Overview"
-permalink: /mechanisms/overview
+permalink: /mechanisms/overview.html
 sidebar:
   nav: design_sidebar
 directory: mechanisms_nav

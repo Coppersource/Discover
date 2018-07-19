@@ -1,6 +1,6 @@
 ---
 title: "Specialized Fasteners"
-permalink: /fasteners/specialized
+permalink: /fasteners/specialized.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

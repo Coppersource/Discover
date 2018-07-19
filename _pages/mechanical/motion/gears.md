@@ -1,6 +1,6 @@
 ---
 title: "Gears"
-permalink: /motion/gears
+permalink: /motion/gears.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

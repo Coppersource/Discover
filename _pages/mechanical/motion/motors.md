@@ -1,6 +1,6 @@
 ---
 title: "Motors"
-permalink: /motion/motors
+permalink: /motion/motors.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

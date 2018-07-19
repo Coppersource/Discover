@@ -1,6 +1,6 @@
 ---
 title: "Electrical Overview"
-permalink: /electrical/overview
+permalink: /electrical/overview.html
 sidebar:
   nav: controls_sidebar
 directory: electrical_nav

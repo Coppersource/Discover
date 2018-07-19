@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-permalink: /motion/overview
+permalink: /motion/overview.html
 sidebar:
   nav: mechanical_sidebar
 directory: motion_nav

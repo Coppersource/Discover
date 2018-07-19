@@ -1,6 +1,6 @@
 ---
 title: "Contributing"
-permalink: /misc/contributing
+permalink: /misc/contributing.html
 sidebar:
   nav: misc_sidebar
 last_modified_at: 2018-07-19T11:39:10-05:00

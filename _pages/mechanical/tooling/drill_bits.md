@@ -1,6 +1,6 @@
 ---
 title: "Drill Bits"
-permalink: /tooling/drill_bits
+permalink: /tooling/drill_bits.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

@@ -1,6 +1,6 @@
 ---
 title: "Rivets"
-permalink: /fasteners/rivets
+permalink: /fasteners/rivets.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

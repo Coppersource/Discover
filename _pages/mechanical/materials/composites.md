@@ -1,6 +1,6 @@
 ---
 title: "Composites"
-permalink: /materials/composites
+permalink: /materials/composites.html
 sidebar:
   nav: mechanical_sidebar
 toc: true

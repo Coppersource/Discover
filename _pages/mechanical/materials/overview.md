@@ -1,6 +1,6 @@
 ---
 title: "Materials Overview"
-permalink: /materials/overview
+permalink: /materials/overview.html
 sidebar:
   nav: mechanical_sidebar
 directory: materials_nav

@@ -1,6 +1,6 @@
 ---
 title: "Fastener Overview"
-permalink: /fasteners/overview
+permalink: /fasteners/overview.html
 sidebar:
   nav: mechanical_sidebar
 directory: fasteners_nav
