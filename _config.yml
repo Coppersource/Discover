@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FIRST Compendium"
+title                    : "Copperforge Discover"
 title_separator          : "-"
 name                     : "Benjamin Ward"
 description              : "FIRST Done Right."
-url                      : "https://frcdoneright.github.io" # the base hostname & protocol for your site
-baseurl                  : "/FIRSTCompendium" # the subpath of your site, e.g. "/blog"
-repository               : "FRCDoneRight/FIRSTCompendium" # GitHub username/repo-name
+url                      : "https://discover.copperforge.cc" # the base hostname & protocol for your site
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "Copperforge/Discover" # Gitlab username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -74,12 +74,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benjamin Ward"
+  name             : "Copperforge"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "FRC and FTC alumni and mentor."
+  bio              : "Providing cost-effective electronics solutions for educational and competition robotics since 2018."
   location         :
-  email            :
-  uri              :
+  email            : "info@copperforge.cc"
+  uri              : "copperforge.cc"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -87,23 +87,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FRCDoneRight"
-  gitlab           :
+  github           : 
+  gitlab           : "Copperforge"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    :
+  steam            :
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :
 
 
 # Reading Files
