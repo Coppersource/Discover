@@ -22,4 +22,4 @@ When submitting a pull request:
 2. Create a branch off of `master` and give it a meaningful name (e.g. `my-awesome-new-page`) and describe the feature or fix.
 3. Open a pull request on GitHub.
 
-All source files for pages can be found in the [`/_pages`](https://gitlab.com/{{ site.repository }}/blob/master/_pages) folder if you'd like to tackle any "low-hanging fruit" like fixing typos, bad grammar, etc.
+All source files for pages can be found in the [`/_pages`](https://gitlab.com/{{ site.repository }}/tree/master/_pages) folder if you'd like to tackle any "low-hanging fruit" like fixing typos, bad grammar, etc.
