@@ -13,7 +13,7 @@ title                    : "Copperforge Discover"
 title_separator          : "-"
 name                     : "Benjamin Ward"
 description              : "FIRST Done Right."
-url                      : "https://discover.copperforge.cc" # the base hostname & protocol for your site
+url                      : "http://discover.copperforge.cc" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Copperforge/Discover" # Gitlab username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -45,7 +45,7 @@ algolia:
   powered_by             : # true (default), false
 
 # SEO Related
-google_site_verification : "G7D0K-2g8HqbKS7YCpzW5WkZ30X8sNKQdCB4MLgFG5M"
+google_site_verification : "FkLKxeE8fAS_m1NS4_cl8RLpXOnMgl-B9XZzj61PAyQ"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
