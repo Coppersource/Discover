@@ -8,6 +8,10 @@ variables:
 
 before_script:
 - bundle install
+# Fixes problems with unicode characters when compiling SASS on Gitlab CI
+- export LC_ALL="C.UTF-8"
+- export LANG="en_US.UTF-8"
+- export LANGUAGE="en_US.UTF-8"
 
 test:
   stage: test
