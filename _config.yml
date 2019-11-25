@@ -13,7 +13,7 @@ title                    : "Copperforge Discover"
 title_separator          : "-"
 name                     : "Copperforge"
 description              : "Providing cost-effective electronics solutions for educational and competition robotics since 2018."
-url                      : "http://discover.copperforge.cc" # the base hostname & protocol for your site
+url                      : "https://discover.copperforge.cc" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Copperforge/Discover" # Gitlab username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,7 +87,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   gitlab           : "Copperforge"
   google_plus      :
   keybase          :
