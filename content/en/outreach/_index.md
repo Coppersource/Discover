@@ -3,6 +3,7 @@
 title: "Outreach"
 linkTitle: "Outreach"
 weight: 20
+type: docs
 menu:
   main:
     weight: 20
